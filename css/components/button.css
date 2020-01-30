@@ -1,0 +1,25 @@
+.btn-primary {
+  display: inline-block;
+  color:lightgrey;
+  text-decoration: none;
+  padding: 12px 24px;
+  background-color: #6D6F70;
+  border-radius: 30px;
+}
+
+.btn-primary:hover {
+  color: red;
+}
+
+.btn {
+  padding: 8px 16px;
+  border-radius: 50px;
+  color: #6D6F70;
+  text-align: center;
+  width: 1.25em;
+  display: inline-block;
+}
+
+.btn:hover {
+  color: red;
+}
